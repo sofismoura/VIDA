@@ -1,1 +1,0 @@
-// Schema de saúde
