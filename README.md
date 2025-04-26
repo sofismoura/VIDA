@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/andreiolicar/V.I.D.A./graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/andreiolicar/V.I.D.A.?color=0FC2C0&logo=github&style=flat-square"
+    <a href="https://github.com/andreiolicar/VIDA/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/andreiolicar/VIDA?color=0FC2C0&logo=github&style=flat-square"
             alt="GitHub Contributors">
     </a>
-    <a href="https://github.com/andreiolicar/V.I.D.A./graphs/stargazers">
-        <img src="https://img.shields.io/github/stars/andreiolicar/V.I.D.A.?color=0FC2C0&logo=github&style=flat-square" alt="GitHub Stars">
+    <a href="https://github.com/andreiolicar/VIDA/graphs/stargazers">
+        <img src="https://img.shields.io/github/stars/andreiolicar/VIDA?color=0FC2C0&logo=github&style=flat-square" alt="GitHub Stars">
     </a>
-    <a href="https://github.com/andreiolicar/V.I.D.A./graphs/forks">
-        <img src="https://img.shields.io/github/forks/andreiolicar/V.I.D.A.?color=0FC2C0&logo=github&style=flat-square" alt="GitHub Forks">
+    <a href="https://github.com/andreiolicar/VIDA/graphs/forks">
+        <img src="https://img.shields.io/github/forks/andreiolicar/VIDA?color=0FC2C0&logo=github&style=flat-square" alt="GitHub Forks">
     </a>
 </p>
 
