@@ -1,0 +1,1 @@
+// Mensagens padrão da IA
